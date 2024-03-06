@@ -1,0 +1,124 @@
+[
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Geography",
+        "question": "Which country was NOT formerly part of Yugoslavia?",
+        "correct_answer": "Albania",
+        "incorrect_answers": [
+            "Croatia",
+            "Serbia",
+            "Macedonia"
+        ]
+    },
+    
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "What is the bloodiest event in United States history, in terms of casualties?",
+        "correct_answer": "Battle of Antietam",
+        "incorrect_answers": [
+            "Pearl Harbor",
+            "September 11th",
+            "D-Day"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Music",
+        "question": "Who is the lead singer of The Lumineers?",
+        "correct_answer": "Wesley Schultz",
+        "incorrect_answers": [
+            "Jeremiah Fraites",
+            "Jay Van Dyke",
+            "Neyla Pekarek"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "In what year was the video game company Electronic Arts founded?",
+        "correct_answer": "1982",
+        "incorrect_answers": [
+            "1999",
+            "1981",
+            "2005"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "In the &quot;S.T.A.L.K.E.R.&quot; series, which of these items can&#039;t be used to lower the player&#039;s accumulated radiation?",
+        "correct_answer": "Radioprotectant",
+        "incorrect_answers": [
+            "Anti-rad",
+            "Medkit",
+            "Vodka"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Music",
+        "question": "Which company did the animation for Peter Gabriel&#039;s Video Sledgehammer (1986)?",
+        "correct_answer": "Aardman Animations",
+        "incorrect_answers": [
+            "HIT Entertainment",
+            "Illumination Entertainment",
+            "VIZ Media"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Music",
+        "question": "What is the name of the 2016 studio album by the French electronic music duo Justice?",
+        "correct_answer": "Woman",
+        "incorrect_answers": [
+            "Randy",
+            "Safe and Sound",
+            "Pleasure"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "In the game series &quot;The Legend of Zelda&quot;, what was the first 3D game?",
+        "correct_answer": "Ocarina of Time",
+        "incorrect_answers": [
+            "Majora&#039;s Mask",
+            "A Link to the Past",
+            "The Wind Waker"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Film",
+        "question": "Johnny Depp made his big-screen acting debut in which film?",
+        "correct_answer": "A Nightmare on Elm Street",
+        "incorrect_answers": [
+            "My Bloody Valentine",
+            "Halloween",
+            "Friday the 13th"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Music",
+        "question": "What is the name of the main character from the music video of &quot;Shelter&quot; by Porter Robinson and A-1 Studios?",
+        "correct_answer": "Rin",
+        "incorrect_answers": [
+            "Rem",
+            "Ren",
+            "Ram"
+        ]
+    }
+
+]
